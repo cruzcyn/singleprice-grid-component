@@ -1,0 +1,63 @@
+/*GEN*/
+body {
+    background-color: hsl(204, 43%, 93%);
+    font-family: "Karla", sans-serif;
+    font-size: 16px;
+}
+
+/*MAIN TEXT*/
+.main-text {
+    background-color: #fff;
+}
+
+h2 {
+    color: hsl(179, 62%, 43%);
+}
+
+.main-text h3 {
+    color: hsl(71, 73%, 54%)
+}
+
+.main-text p {
+    color: hsl(218, 22%, 67%);
+}
+
+/*FLEXBOX*/
+.flex-box {
+    display: flex;
+    color: #fff;
+}
+
+/*Flexbox left*/
+.subscription-price {
+    background-color: hsl(179, 62%, 43%);
+}
+
+.price {
+    font-size: larger;
+    font-weight: bolder;
+}
+
+.price em {
+    font-style: normal;
+    font-size: smaller;
+    font-weight: lighter;
+    color: hsl(204, 43%, 93%);
+}
+
+button {
+    background-color: hsl(71, 73%, 54%);
+}
+a {
+    color: #fff;
+    text-decoration: none;
+}
+/*Flexbox right*/
+.why-us {
+    background-color: hsl(179, 62%, 50%);
+}
+
+li {
+    list-style: none;
+    color: hsl(204, 43%, 93%);
+}
